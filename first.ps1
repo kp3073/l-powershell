@@ -1,1 +1,1 @@
-Get-Help *Get-PowerShellEditorServicesVersion
+Get-Command
