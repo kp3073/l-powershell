@@ -1,0 +1,1 @@
+write-output "powershell is fun"
