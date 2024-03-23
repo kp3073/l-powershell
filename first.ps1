@@ -1,1 +1,1 @@
-Get-Command
+New-PSSession -ComputerName "prod01" -Credential administrator
